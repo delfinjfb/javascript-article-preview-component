@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com/delfinjfb/javascript-article-preview-component](https://github.com/delfinjfb/javascript-article-preview-component)
-- Live Site URL: _to be added once deployed_
+- Live Site URL: [javascript-article-preview-componen.vercel.app](https://javascript-article-preview-componen.vercel.app)
 
 ## My process
 
